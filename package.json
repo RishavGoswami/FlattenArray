@@ -1,0 +1,25 @@
+{
+  "name": "flatten-nested-array",
+  "version": "1.0.0",
+  "description": "Flatten N number of nested array into a single array.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishavGoswami/FlattenArray.git"
+  },
+  "keywords": [
+    "npm",
+    "array",
+    "flat",
+    "flatten-array"
+  ],
+  "author": "Rishav Goswami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RishavGoswami/FlattenArray/issues"
+  },
+  "homepage": "https://github.com/RishavGoswami/FlattenArray#readme"
+}
