@@ -1,10 +1,14 @@
-# FlattenArray
+# Flatten Nested Array
 
 Flatten N number of nested array into a single array. 
 
 # Installation
 
-`npm i flatten-nested-array --save`
+```
+NPM: npm i flatten-nested-array --save
+
+YARN: yarn add flatten-nested-array
+```
 
 
 #### How to use
