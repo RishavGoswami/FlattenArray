@@ -1,6 +1,6 @@
 {
   "name": "flatten-nested-array",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Flatten N number of nested array into a single array.",
   "main": "./src/index.js",
   "scripts": {
